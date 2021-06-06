@@ -95,3 +95,15 @@ hr{
 {
     color: var(--primary-color)
 }
+
+.section
+{
+    padding: 3rem; 
+}
+.section  h1
+{
+    text-align: center;
+}
+.ow{
+    background-color: lightgray;
+}
