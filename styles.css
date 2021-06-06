@@ -25,12 +25,14 @@ hr{
     text-decoration:none;
     padding-top: 0.5rem;
     padding-left: 1 rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 .primary-link
 {
     background-color: var(--primary-color);
     border-radius: 0.25rem;
-    color:white
+    color:white;
 }
 .secondary-link
 {
@@ -73,7 +75,7 @@ hr{
 
 .link-active
 {
-    font: bold;
+    font-weight: bold;
 }
 .hero
 {
